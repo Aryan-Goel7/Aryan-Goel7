@@ -11,8 +11,8 @@
 
 ### 📈 Coding Profile Stats
 <a href="https://codeforces.com/profile/Aryan_Goel7">
-<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=Aryan_Goel7&theme=github_dark&disable_animations=false&show_icons=true&force_username=true&" alt="Codeforces Stats"  height=360 width=290 /> 
+<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=Aryan_Goel7&theme=github_dark&disable_animations=false&show_icons=true&force_username=true&" alt="Codeforces Stats"  height=360 width=370 /> 
 </a> 
-<a href="">
-<img align="center" src="https://leetcard.jacoblin.cool/aryangoel971?theme=dark&font=DM%20Sans&ext=contest" alt="LeetCode Stats" width=290/>
+<a href="https://leetcode.com/u/aryangoel971/">
+<img align="center" src="https://leetcard.jacoblin.cool/aryangoel971?theme=dark&font=DM%20Sans&ext=contest" alt="LeetCode Stats" width=370/>
 </a>
